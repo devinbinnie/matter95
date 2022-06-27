@@ -5,4 +5,5 @@ This was written for the 2022 Mattermost Hackathon.
 License is MIT.
 
 Uses VBJSON written by Michael Glaser (vbjson@ediy.co.nz)
+
 Uses cStringBuilder by VolteFace
